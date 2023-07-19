@@ -1,8 +1,8 @@
 ### Hello! I'm Dan. 👋
 
-- 🔭 I’m currently working on Machine Learning and Backend Development using Rust
-- 🌱 I’m currently learning NVim & Numerical Optimisation
-- 👯 I’m looking to collaborate on Rust, Polars & maybe something golf related
+- 🔭 I’m currently working on Machine Learning and Backend Development using Rust at Sigma
+- 🌱 I’m currently learning RedPanda, Kafka & Neovim Magic
+- 👯 I’m looking to collaborate on Rust and Polars
 - 🤔 I’m looking for help with SIMD, Cuda and LP Optimisation 
 - 📫 How to reach me: LinkedIn or Emails
 
