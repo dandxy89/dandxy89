@@ -1,9 +1,9 @@
 ### Hello! I'm Dan. 👋
 
-- 🔭 I’m currently working on Machine Learning and Backend Development using Rust at Sigma
-- 🌱 I’m currently learning RedPanda, Kafka & Neovim Magic
-- 👯 I’m looking to collaborate on Rust and Polars
-- 🤔 I’m looking for help with SIMD, Cuda and LP Optimisation 
+- 🔭 I’m currently working on Backend Development using Rust at Sigma
+- 🌱 I’m currently learning Actix, a little Erlang, Nom and Macros in Rust. 
+- 👯 I’m looking to collaborate on Yata and LP file parsing
+- 🤔 I’m looking for help with SIMD, LP Optimisation and Parsers. 
 - 📫 How to reach me: LinkedIn or Emails
 
 # 💻Tech Stack
