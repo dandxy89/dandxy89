@@ -1,8 +1,7 @@
 ### Hello! I'm Dan. 👋
 
-- 🔭 I’m currently working on Backend Development using Rust at Sigma
-- 🌱 I’m currently learning Actix, a little Erlang, Nom and Macros in Rust. 
-- 👯 I’m looking to collaborate on Yata and LP file parsing
+- 🔭 I’m currently working on as a Backend Engineer, with a focus on the development of the Data Platform using Rust at [Sigma Financial](https://www.sigmafinancial.ai/)
+- 🌱 I’m currently learning about Actor Systems, SIMD and Technical Analysis.
 - 🤔 I’m looking for help with SIMD, LP Optimisation and Parsers. 
 - 📫 How to reach me: LinkedIn or Emails
 
