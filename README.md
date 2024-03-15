@@ -1,10 +1,10 @@
 ### Hello! I'm Dan. 👋
 
-- 🔭 I’m currently working on as a Backend Engineer at [Sigma Financial](https://www.sigmafinancial.ai/)
+- 🔭 I’m currently working as a Backend Engineer at [Sigma Financial](https://www.sigmafinancial.ai/)
   - Assisting in the development of a comprehensive Financial Research platform.
   - Instrumental in all the backend tasks necessary for pattern recognition, real-time alerts, smoothing algorithms, strategy creation (including backtesting) and the developement of custom domain language called `Sigma Script`.
 - 🌱 I’m currently learning about Actor Systems, SIMD and Technical Analysis.
-- 🤔 I’m looking for help with SIMD, F1 Data, LP Optimisation and PEST Parsers.
+- 🤔 I’m looking for help with F1 Telemetry Data, LP Optimisation and PEST Parsers.
 - 📫 How to reach me: LinkedIn or Emails
 
 # 💻Tech Stack
